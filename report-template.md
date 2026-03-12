@@ -31,13 +31,13 @@ Perhaps, I would spend more time doing EDA. There might be lot of hidden informa
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![alt text](model_train_score-1.png)
+<img width="800" height="600" alt="model_train_score" src="https://github.com/user-attachments/assets/a399807c-8779-458f-b81b-d14d4629eb60" />
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![alt text](model_test_score-1.png)
+<img width="800" height="600" alt="model_test_score" src="https://github.com/user-attachments/assets/7c5fc853-fda0-4020-9e19-63bbfeccb7e0" />
 
 ## Summary
-Overall, I realized how powerfull and easy-to-use Autoglon is. In just a few lines of code, it allows to find good models eficientely, so we could focus more on the quality data.
+Overall, I realized how powerfull and easy-to-use Autogluon is. In just a few lines of code, it allows to find good models eficientely, so we could focus more on the quality data.
 
 In further steps, I would focus more doing EDA, in order to have a better understanding of the data. Next, I would focus only on the model that performed better, and finally optimize hyperparameters.
